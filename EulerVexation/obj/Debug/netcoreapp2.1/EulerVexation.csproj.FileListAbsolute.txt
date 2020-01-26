@@ -1,0 +1,11 @@
+D:\EulerVexation\EulerVexation\bin\Debug\netcoreapp2.1\EulerVexation.deps.json
+D:\EulerVexation\EulerVexation\bin\Debug\netcoreapp2.1\EulerVexation.runtimeconfig.json
+D:\EulerVexation\EulerVexation\bin\Debug\netcoreapp2.1\EulerVexation.runtimeconfig.dev.json
+D:\EulerVexation\EulerVexation\bin\Debug\netcoreapp2.1\EulerVexation.dll
+D:\EulerVexation\EulerVexation\bin\Debug\netcoreapp2.1\EulerVexation.pdb
+D:\EulerVexation\EulerVexation\obj\Debug\netcoreapp2.1\EulerVexation.csprojAssemblyReference.cache
+D:\EulerVexation\EulerVexation\obj\Debug\netcoreapp2.1\EulerVexation.csproj.CoreCompileInputs.cache
+D:\EulerVexation\EulerVexation\obj\Debug\netcoreapp2.1\EulerVexation.AssemblyInfoInputs.cache
+D:\EulerVexation\EulerVexation\obj\Debug\netcoreapp2.1\EulerVexation.AssemblyInfo.cs
+D:\EulerVexation\EulerVexation\obj\Debug\netcoreapp2.1\EulerVexation.dll
+D:\EulerVexation\EulerVexation\obj\Debug\netcoreapp2.1\EulerVexation.pdb
