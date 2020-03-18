@@ -17,6 +17,7 @@
 10th. inWork "&#216"<br>
 11th. Solved "70600674"<br>
 12th. inWork "&#216"<br>
+13th. inWOrk "&#216"<br>
 </p>
 <p>Allthough the Programms is mostly code by me, I also used usefull resouces and the are following:</p>
 <a href=https://www.mathblog.dk/project-euler-solutions/>Mathblog</a><br>
