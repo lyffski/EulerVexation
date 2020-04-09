@@ -29,7 +29,7 @@ namespace EulerVexation.EulerProblemID._003_Largest_prime_factor
                 }
             }
             if (newnumm > largestFact)
-            { // the remainder is a prime number
+            { // prim num is a reminder
                 largestFact = newnumm;
             }
             Console.WriteLine(largestFact);
