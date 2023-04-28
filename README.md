@@ -1,5 +1,7 @@
 <b><h1>EulerVexation</h1></b>
 
+The piece of code that I have created was intended to tackle the well-known Euler problems, a series of computational problems that can be solved using computer programs in the modern era. Through my work on this project, I made my best effort to solve these problems. Using a terminal interface program that I had written in C#, I was able to solve several problems in chronological order. Specifically, I was able to disentangle 14 of the problems, which provided me with an in-depth look into how numerical mathematical operations are performed by computers. If you take a look at my repository on Github, you can see that the project has been rigorously structured based on the C# project hierarchy. During my work on this project, I gained a closer look at this structure, which has further enhanced my understanding of software development. It is worth noting that the project is still a work in progress. I am committed to solving further mathematical problems each week and deepening my understanding of them. The process has been challenging, but it has also been incredibly rewarding, allowing me to gain a deep appreciation for the power and potential of computer programs to solve complex mathematical problems.
+
 <h3>This project has as goal to slove all the Euler Problems only using one Project file in Csharp</h3>
 <h5>All the Problem are provided by <a href=https://projecteuler.net/archives>"projecteuler.net"</a> site.</h5>
 <br>
